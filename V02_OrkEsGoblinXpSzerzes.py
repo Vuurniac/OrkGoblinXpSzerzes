@@ -1,5 +1,5 @@
 voltSzintlepes = False
-kezdoXp = 500 # bekérés, előző beolvasása, stb.
+kezdoXp = int(input("kezdő xp: "))
 goblinXp = 30
 orkXp = 75
 goblinDb = 5
