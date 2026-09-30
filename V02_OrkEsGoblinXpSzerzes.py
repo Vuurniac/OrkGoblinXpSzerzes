@@ -42,4 +42,9 @@ if osszesXp >= szint_2 and not(voltSzintlepes):
 else:
   print("nem léptél szintet") # hamis ág
 
-print("program vége") # ezt mindenképpen végrehajtja
+print("Statisztika") # ezt mindenképpen végrehajtja
+ellenfelTipusa = input("add meg az egyik ellenfél típusát: ");
+if ellenfelTipusa == "ork":
+    print("ismert ellenfél")
+else:
+    print("nem ismert ellenfél")
