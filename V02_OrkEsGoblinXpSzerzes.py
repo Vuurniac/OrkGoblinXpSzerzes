@@ -11,12 +11,11 @@ osszesXp = kezdoXp
 # XP kiírása
 print(osszesXp)
 # XP vizsgálata elágazással
-if osszesXp >= szint_2 and voltSzintlepes == False:
+if osszesXp >= szint_2 and not(voltSzintlepes):
   print("szintet léptél") # igaz ág
   voltSzintlepes = True
 else:
   print("nem léptél szintet") # hamis ág
-
 
 # XP goblinokért
 print("CSATA goblinokkal")
@@ -24,7 +23,7 @@ osszesXp = kezdoXp + goblinXp * goblinDb # + orkXp * orkDb
 # XP kiírása
 print(osszesXp)
 # XP vizsgálata elágazással
-if osszesXp >= szint_2 and voltSzintlepes == False:
+if osszesXp >= szint_2 and not(voltSzintlepes):
   print("szintet léptél") # igaz ág
   voltSzintlepes = True
 else:
@@ -37,7 +36,7 @@ osszesXp += orkXp * orkDb
 # XP kiírása
 print(osszesXp)
 # XP vizsgálata elágazással
-if osszesXp >= szint_2 and voltSzintlepes == False:
+if osszesXp >= szint_2 and not(voltSzintlepes):
   print("szintet léptél") # igaz ág
   voltSzintlepes = True
 else:
