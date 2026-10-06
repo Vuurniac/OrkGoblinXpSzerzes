@@ -4,11 +4,17 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="21ad2146-0b92-454b-b7b5-e38a89fdf204" name="Changes" comment="Kivalaszthato ellenfel es darabszam, minimalis hibakezeles nemletezo ellensegekre, harom ciklusban futo csata, novekvo xp kovetelmeny" />
+    <list default="true" id="21ad2146-0b92-454b-b7b5-e38a89fdf204" name="Changes" comment=".venv es .idea verziokezeles ala vonasa" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" show_ignored="true">
+    <option name="groupingKeys">
+      <option value="directory" />
+      <option value="repository" />
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="PREVIOUS_COMMIT_AUTHORS">
@@ -34,22 +40,22 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "Python.V02_OrkEsGoblinXpSzerzes.executor": "Run",
-    "Python.contextlib.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
-    "codeWithMe.voiceChat.enabledByDefault": "false",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "/home/vuurniac/Documents/OrkEsGoblinXpSzerzes",
-    "nodejs_package_manager_path": "npm",
-    "python.packages.toolwindow.project.migrated.to.right.top.v2": "true",
-    "settings.editor.selected.configurable": "project.propVCSSupport.Mappings"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Python.V02_OrkEsGoblinXpSzerzes.executor&quot;: &quot;Run&quot;,
+    &quot;Python.contextlib.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/vuurniac/Documents/OrkEsGoblinXpSzerzes&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;python.packages.toolwindow.project.migrated.to.right.top.v2&quot;: &quot;true&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.Mappings&quot;
   }
-}]]></component>
+}</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -146,7 +152,15 @@
       <option name="project" value="LOCAL" />
       <updated>1791301942061</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary=".venv es .idea verziokezeles ala vonasa">
+      <option name="closed" value="true" />
+      <created>1791310779072</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1791310779072</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -174,7 +188,8 @@
     <MESSAGE value="otthoni teszt commit" />
     <MESSAGE value="Szornyek osztalyositva, ellenorzes fuggvenyesitve" />
     <MESSAGE value="Kivalaszthato ellenfel es darabszam, minimalis hibakezeles nemletezo ellensegekre, harom ciklusban futo csata, novekvo xp kovetelmeny" />
-    <option name="LAST_COMMIT_MESSAGE" value="Kivalaszthato ellenfel es darabszam, minimalis hibakezeles nemletezo ellensegekre, harom ciklusban futo csata, novekvo xp kovetelmeny" />
+    <MESSAGE value=".venv es .idea verziokezeles ala vonasa" />
+    <option name="LAST_COMMIT_MESSAGE" value=".venv es .idea verziokezeles ala vonasa" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
