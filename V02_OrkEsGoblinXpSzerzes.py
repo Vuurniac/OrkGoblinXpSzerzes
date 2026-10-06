@@ -2,7 +2,7 @@ voltSzintlepes = False
 kezdoXp = int(input("kezdő xp: "))
 goblinXp = 30
 orkXp = 75
-goblinDb = 5
+goblinDb = 5 # komment
 orkDb = 1
 szint_2 = 700
 # XP kezdés
