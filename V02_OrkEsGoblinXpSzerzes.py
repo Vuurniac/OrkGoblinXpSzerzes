@@ -72,7 +72,7 @@ def szorny_bekeres(): # kiírja a valid szörnyeket és kéri a usert, hogy adja
       if not helyesinput:
         print("Hibásan adtad meg az adatokat! Kérlek add meg újra!")
     else:
-      print("Hibásan adtad meg az adatokat! Kérlek add meg újra!")
+      print("Hibásan adtad meg az adatokat! Kérlek add meg újra!") # Ez helyett kivételkezelés kellene?
 
   return beirtszorny, beirtdarab # visszaadjuk a szörny osztályát és hogy mennyi van belőle
 
